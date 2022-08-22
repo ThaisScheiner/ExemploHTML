@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Thais\OneDrive - Fatec Centro Paula Souza\FATEC\5 Semestre 08-2022\Laboratório de Banco de Dados\Tarefas\Principios Basicos HTML e CSS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1550525742.index
+2082264103.index
+3583595370.index
+2318990463.index
+778025359.index
+1423980791.index
+3668698489.index

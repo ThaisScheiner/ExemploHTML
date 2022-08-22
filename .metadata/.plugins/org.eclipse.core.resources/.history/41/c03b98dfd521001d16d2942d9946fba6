@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+body 
+{
+	background-color: #76EAFF;	
+}
+
+.table_round
+{
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+.th_dash
+{
+	border: 0.5px solid blue;
+	border-style: dashed;
+}
+
+.td_groove
+{
+	border: 0.5px solid red;
+	border-
+}

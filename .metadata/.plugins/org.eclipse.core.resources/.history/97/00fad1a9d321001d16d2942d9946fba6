@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Exemplo HTML</title>
+</head>
+<body>
+	<div align="center">
+		<table border = "1">
+			<thead>
+				<tr>
+					<th><b>#ID</b></th>
+					<th><b>Nome</b></th>
+					<th><b>Data de Nascimento</b></th>
+				</tr>
+			</thead>
+			
+			<tbody>
+				<tr>
+					<td>1</td>
+					<td>Fulano</td>
+					<td align="center">22/09/1982</td>
+				</tr>
+				
+				<tr>
+					<td>2</td>
+					<td>Beltrano</td>
+					<td align="center">12/04/1973</td>
+				</tr>
+				
+				<tr>
+					<td>1</td>
+					<td>Cicrano</td>
+					<td align="center">15/08/1992</td>
+				</tr>
+				
+			</tbody>
+			
+		</table>
+	</div>
+	
+	<br />
+	<br />
+	
+	<div align="center">
+		<table>
+			<tr>
+				<td>
+					<input type="number" min="0" step="1" id="id" name="id"
+						placeholder="#ID" required="required">
+				</td>
+			</tr>
+		</table>
+	
+	</div>
+	
+</body>
+</html>

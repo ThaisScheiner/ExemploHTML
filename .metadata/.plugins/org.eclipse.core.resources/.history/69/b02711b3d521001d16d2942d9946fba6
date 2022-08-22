@@ -1,0 +1,12 @@
+@charset "ISO-8859-1";
+
+body 
+{
+	background-color: #76EAFF;	
+}
+
+.table_round
+{
+	border: 1px solid black;
+	border-radius: 10px;
+}
